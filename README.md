@@ -8,7 +8,6 @@ Computer Science student driven by a passion for developing creative and impactf
 
 * 🌍  I'm based in Michigan
 * ✉️  You can contact me at [solomiyampylypiv@gmail.com](mailto:solomiyampylypiv@gmail.com)
-* 🚀  I'm currently working on [AI-Powered Uno](http://uno.com)
 * 🧠  I'm learning Swift
 * ⚡  Minty is reverse spicy
 
