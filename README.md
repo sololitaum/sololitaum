@@ -16,7 +16,7 @@
 
 ---
 
-### 🛠 Tech Stack  
+### 🛠 Skills
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,swift,cpp,js,html,css,bootstrap,fastapi,figma,arduino,raspberrypi,docker" />
