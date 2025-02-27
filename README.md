@@ -10,7 +10,7 @@
 💻 Skilled in Python, Swift, C++, JavaScript, HTML, CSS  
 🌍 Based in Michigan  
 📩 Reach me at [solomiyampylypiv@gmail.com](mailto:solomiyampylypiv@gmail.com)  
-🔨 Currently working on [PawBerry Market](http://uno.com)  
+🔨 Currently working on [PawBerry Market](https://github.com/sololitaum/pawberry_market.git)  
 📚 Learning SQL  
 ⚡ Fun fact: Minty is reverse spicy  
 
